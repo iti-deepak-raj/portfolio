@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Vandana Jada
+Vandana Jada
 Web developer
 
 Show Contacts
