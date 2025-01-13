@@ -4,21 +4,23 @@ vCard - Personal Portfolio
 
 alt = Vandana Jada
 Vandana Jada
-Web developer
+Machine Learning Engineer
 
 Show Contactsgit
 
 Email
-richard@example.com
+vandanajada14@gmail.com
 
+#not needed
 Phone
 +1 (213) 352-2795
 
+#not needed
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Cleveland, Ohio, USA
 
 # navbar
 
